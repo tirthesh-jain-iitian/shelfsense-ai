@@ -1,0 +1,12 @@
+streamlit==1.66.0
+torch==2.14.1
+torchvision==0.29.1
+transformers==5.20.1
+pillow==12.3.0
+numpy==2.5.4
+pandas==3.0.6
+scikit-learn==1.9.1
+ftfy==6.3.1
+regex==2026.9.29
+tqdm==4.70.1
+git+https://github.com/openai/CLIP.git@d05afc436d78f1c48dc0dbf8e5980a9d471f35f6

@@ -1,0 +1,8 @@
+{
+  "shelves": [
+    {"slots": ["sku001", "sku001", "sku002", "sku002"]},
+    {"mode": "zone", "stock": ["sku003"]},
+    {"mode": "zone", "stock": ["sku001", "sku002", "sku003"]},
+    {"mode": "ignore"}
+  ]
+}
